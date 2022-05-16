@@ -13,7 +13,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 - Alert on when the bot boots up.
 
 Table of Content
-- [https://telegra.ph/file/fb2bcd6d847ee077a7920.png](#features)
+- [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)
 - [TEST THE BOT](https://t.me/BharatTorrentProBot)
 - [DEPLOYMENT METHODS](#deployment)
   - [Heroku](#heroku)
