@@ -14,7 +14,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 Table of Content
 - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)
-- [![TEST THE BOT](https://telegra.ph/file/be9a5e4606de9ae189971.png)](https://t.me/BharatTorrentProBot)
+- [![TEST THE BOT](https://telegra.ph/file/f115e448e8cff2d0996d5.png)](https://t.me/BharatTorrentProBot)
 - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment)
   - [Heroku](#heroku)
   - [Zeet](#zeet)
