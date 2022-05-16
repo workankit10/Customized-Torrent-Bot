@@ -54,7 +54,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 ## ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-### [![YouTube](https://telegra.ph/file/d563bd92be79c02f69500.png)](https://youtu.be/c8_TU1sPK08)
+### [![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08)
 
 
 Steps:-
