@@ -38,23 +38,23 @@ Following are some awesome features offered by this bot:-
 - InstaDL support
 - Browse the settings menu and try stuff. ;)
 
-# Deployment
+### Deployment
 
 ## ***Heroku***
 	
-## For Heroku users New repo will come after Yash Khadse Is Free and Available .. (But This repo will work on heroku)
-### [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md)
+ For Heroku users New repo will come after Yash Khadse Is Free and Available .. (But This repo will work on heroku)
+ [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md)
 
-## ***Zeet***
+***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
 Click the logo to see the video guide to see how to deploy. The web is not yet available but soon will be available on Zeet.
 
-### [![Deploy](https://telegra.ph/file/a81a05cc874e8636ddb86.png)](https://youtu.be/WWi9JWDzXSw)
+ [![Deploy](https://telegra.ph/file/a81a05cc874e8636ddb86.png)](https://youtu.be/WWi9JWDzXSw)
 
-## ***VPS Deployment Docker***
+***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-### [![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08)
+[![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08)
 
 
 Steps:-
@@ -78,8 +78,8 @@ Steps:-
     1. `docker-compose build`
     2. `docker-compose up`
 
-### ***VPS Deployment Without Docker***
-### [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs)
+ ***VPS Deployment Without Docker***
+ [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
@@ -136,7 +136,8 @@ Steps:-
     - Default Value :- `False`
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
-## **Compulsory Vars**
+
+### **Compulsory Vars**
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
