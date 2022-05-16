@@ -12,11 +12,19 @@ The bot gets started with minimum variables and others can be set as and when ne
 - Pixeldrain DL support.
 - Alert on when the bot boots up.
 
-Table of Content
+<details>
+
+  <summary>Table of Content</summary>
+
+  <br/>
   - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)    • [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot)    • [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment)    • [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku)    • [![Zeet](https://telegra.ph/file/dd8379fb023fc9fe9d763.png)](#zeet)    • [![VPS DEPLOYMENT USING DOCKER](https://telegra.ph/file/246af5743da2f792b34a7.png)](#vps-deployment-docker)    • [![VPS DEPLOYMENT WITHOUT DOCKER](https://telegra.ph/file/0d520b613134bd20881b8.png)](#vps-deployment-without-docker)
 
 
-# Features
+<details>
+
+  <summary>Features</summary>
+
+  <br/> 
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
 - Customised QBT engine with Custom Trackers
@@ -135,7 +143,11 @@ Steps:-
     - Default Value :- `False`
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
-### ***Compulsory Vars***
+###<details>
+
+  <summary>***Compulsory Vars***</summary>
+
+  <br/> 
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
@@ -257,7 +269,11 @@ Steps:-
 
 ## **Rest Variables are not to be changed**
 
-## **Bot Commands:**
+## <details>
+
+  <summary>**Bot Commands:**</summary>
+
+  <br/>
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
@@ -278,7 +294,11 @@ Steps:-
     getlogs - Get the robot logs ⚠️ Admin Only
      
 
-# **Credits:**
+#<details>
+
+  <summary>**Credits:**</summary>
+
+  <br/> 
 
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
