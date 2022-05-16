@@ -263,11 +263,7 @@ Steps:-
 ## **Rest Variables are not to be changed**
 
 
-<details>
-
-  <summary><b>Bot Commands:</b></summary>
-
-  <br/>
+## **Bot Commands:**
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
