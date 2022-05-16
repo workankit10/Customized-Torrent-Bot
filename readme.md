@@ -263,7 +263,7 @@ Steps:-
 
 <details>
 
-  <summary><b>Bot Commands:</b></summary>
+  <summary><b>Bot Commands:</b></summary>/n/n
 
 
     leech - To Leech a torrent or download a direct link
@@ -287,7 +287,7 @@ Steps:-
 
 <details>
 	
-  <summary><b>Credits:</b></summary>
+  <summary><b>Credits:</b></summary>/n/n
 	
 
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
