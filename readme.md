@@ -13,9 +13,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 - Alert on when the bot boots up.
 
 Table of Content
-  - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features) - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot) - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment) - [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku) - [![Zeet](https://telegra.ph/file/dd8379fb023fc9fe9d763.png)](#zeet)
-  - [VPS DEPLOYMENT USING DOCKER](#vps-deployment-docker)
-  - [VPS DEPLOYMENT WITHOUT DOCKER](#vps-deployment-without-docker)
+  - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features) - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot) - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment) - [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku) - [![Zeet](https://telegra.ph/file/dd8379fb023fc9fe9d763.png)](#zeet) -[![VPS DEPLOYMENT USING DOCKER](https://telegra.ph/file/246af5743da2f792b34a7.png)](#vps-deployment-docker) - [![VPS DEPLOYMENT WITHOUT DOCKER](https://telegra.ph/file/0d520b613134bd20881b8.png)](#vps-deployment-without-docker)
 
 
 # Features
