@@ -2,7 +2,7 @@
 So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## [![Alpha](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/alpha) • [![Telegram Group](https://img.icons8.com/fluent/48/000000/telegram-app.png)](https://t.me/BharatTorrentPro)
+## [![Alpha](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/alpha) • [![Telegram Group](https://telegra.ph/file/f1c6b9aaa9b96a7a1c649.png)](https://t.me/BharatTorrentPro)
 
 ## Whats new
 - MegaDL added
