@@ -286,9 +286,9 @@ Steps:-
     getlogs - Get the robot logs ⚠️ Admin Only
      
 
+<details>
+	
   <summary><b>Credits:</b></summary>
-
-  <br/> 
 
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
