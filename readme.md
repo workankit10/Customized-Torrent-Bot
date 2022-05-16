@@ -265,7 +265,6 @@ Steps:-
 
   <summary><b>Bot Commands:</b></summary>
 
-  <br/> 
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
@@ -289,6 +288,7 @@ Steps:-
 <details>
 	
   <summary><b>Credits:</b></summary>
+	
 
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
