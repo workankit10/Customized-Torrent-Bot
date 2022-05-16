@@ -4,7 +4,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 ## Use [Alpha](https://github.com/hey-adithya/BharatTorrentPro-/tree/alpha) branch if you want to try latest features.
 
-## For any help join this:- [Bharat Torrent](https://t.me/BharatTorrentPro)
+## [![Telegram Group](https://telegra.ph/file/5eaccb387312bb7ed7a57.png)](https://t.me/BharatTorrentPro)
 
 ## Whats new
 - MegaDL added
