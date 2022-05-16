@@ -136,11 +136,7 @@ Steps:-
     - Default Value :- `False`
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
-<details>
-
-  <summary>Compulsory Vars</summary>
-
-  <br/> 
+## **Compulsory Vars**
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
