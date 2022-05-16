@@ -2,9 +2,9 @@
 So basically Tortoolkit is aimed to be the most versatile torrent leecher and youtube-dl bot for telegram. This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## Use [Alpha](https://github.com/XcodersHub/TorToolkitX/tree/alpha) branch if you want to try latest features.
+## Use [Alpha](https://github.com/hey-adithya/BharatTorrentPro-/tree/alpha) branch if you want to try latest features.
 
-## For any help join this:- [Xcodershub](https://t.me/XcodersHubChat)
+## For any help join this:- [Bharat Torrent](https://t.me/BharatTorrentPro)
 
 ## Whats new
 - MegaDL added
@@ -14,7 +14,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 Table of Content
 - [FEATURES](#features)
-- [TEST THE BOT (DEMO)](https://t.me/TorToolKit)
+- [TEST THE BOT](https://t.me/BharatTorrentProBot)
 - [DEPLOYMENT METHODS](#deployment)
   - [Heroku](#heroku)
   - [Zeet](#zeet)
@@ -257,13 +257,13 @@ Steps:-
 
 - `QBitTorrent Configurations`
   - To modify QBT engine Preferences ... Please check `qBittorrent.conf` in root of the repo..
-  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click here](https://github.com/XcodersHub/TorToolkitX/blob/master/start.sh#L2) to see.
+  - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click](https://github.com/hey-adithya/BharatTorrentPro-/blob/master/start.sh#L2) to see.
 
 
 
 ## **Rest Variables are not to be changed**
 
-## Commands
+## **Bot Commands:**
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
@@ -284,7 +284,10 @@ Steps:-
     getlogs - Get the robot logs ⚠️ Admin Only
      
 
-# Credits
+# **Credits:**
+
+[Hey-Adithya](https://github.com/hey-adithya) for coordinator
+
 [Yash-DK](https://github.com/yash-dk) Owner of TorToolkit Repository
 
 [AmirulAndalib](https://github.com/AmirulAndalib) for modding
