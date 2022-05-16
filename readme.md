@@ -271,9 +271,10 @@ Steps:-
 
 ## **Rest Variables are not to be changed**
 
-## <details>
 
-  <summary>**Bot Commands:**</summary>
+<details>
+
+  <summary><b>Bot Commands:</b></summary>
 
   <br/>
 
@@ -298,7 +299,7 @@ Steps:-
 
 <details>
 
-  <summary>**Credits:**</summary>
+  <summary>Credits:</summary>
 
   <br/> 
 
