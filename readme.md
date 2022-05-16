@@ -59,7 +59,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 ## ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-### [!(https://img.icons8.com/fluent/48/000000/youtube.png)](https://youtu.be/c8_TU1sPK08)
+### [![YouTube](https://img.icons8.com/fluent/48/000000/youtube.png)](https://youtu.be/c8_TU1sPK08)
 
 
 Steps:-
