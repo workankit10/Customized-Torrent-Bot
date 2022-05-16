@@ -84,7 +84,7 @@ Steps:-
     2. `docker-compose up`
 
 ### ***VPS Deployment Without Docker***
-### [Demo video for Deployment Without Docker](https://youtu.be/HYjG4-VfxXs)
+### [![YouTube](https://img.icons8.com/fluent/48/000000/youtube.png)](https://youtu.be/HYjG4-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
