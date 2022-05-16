@@ -16,7 +16,7 @@ Table of Content
 - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)
 - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot)
 - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment)
-- [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku)- 
+- [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku)
 - [![Zeet](https://telegra.ph/file/d2eb13a0220e57ed53860.png)](#zeet)
   - [VPS DEPLOYMENT USING DOCKER](#vps-deployment-docker)
   - [VPS DEPLOYMENT WITHOUT DOCKER](#vps-deployment-without-docker)
