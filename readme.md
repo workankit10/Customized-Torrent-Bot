@@ -286,8 +286,6 @@ Steps:-
     getlogs - Get the robot logs ⚠️ Admin Only
      
 
-<details>
-
   <summary><b>Credits:</b></summary>
 
   <br/> 
