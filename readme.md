@@ -3,7 +3,6 @@ So basically Tortoolkit is aimed to be the most versatile torrent leecher and yo
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
 ## [![Alpha](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/alpha)
-
 [![Telegram Group](https://img.icons8.com/fluent/48/000000/telegram-app.png)](https://t.me/BharatTorrentPro)
 
 ## Whats new
