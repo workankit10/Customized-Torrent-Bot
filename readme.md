@@ -54,7 +54,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 ## ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-### [![YouTube](https://img.icons8.com/fluent/48/000000/youtube.png)](https://youtu.be/c8_TU1sPK08)
+### [![YouTube](https://telegra.ph/file/d563bd92be79c02f69500.png)](https://youtu.be/c8_TU1sPK08)
 
 
 Steps:-
@@ -79,7 +79,7 @@ Steps:-
     2. `docker-compose up`
 
 ### ***VPS Deployment Without Docker***
-### [![YouTube](https://img.icons8.com/fluent/48/000000/youtube.png)](https://youtu.be/HYjG4-VfxXs)
+### [![YouTube](https://telegra.ph/file/d563bd92be79c02f69500.png)](https://youtu.be/HYjG4-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
