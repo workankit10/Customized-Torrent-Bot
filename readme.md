@@ -267,21 +267,22 @@ Steps:-
 
 <br/>
 
-    leech - ᴛᴏʀʀᴇɴᴛ ꜰɪʟᴇ ᴏʀ ᴍᴀɢɴᴇᴛ ʟɪɴᴋ ᴅᴏᴡɴʟᴏᴀᴅ
-    ytdl - ᴅᴏɴᴡʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ᴠɪᴅᴇᴏ
-    pytdl - ᴅᴏᴡɴʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ᴘʟᴀʏʟɪꜱᴛ
-    ustatus - ᴛᴏ ꜱᴇᴇ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴛᴀꜱᴋꜱ
-    status - ꜱᴛᴀᴛᴜꜱ ᴏꜰ ᴀʟʟ ᴛʜᴇ ᴅᴏᴡɴʟᴏᴀᴅꜱ
-    server - ɢᴇᴛ ꜱᴇʀᴠᴇʀ ꜱᴛᴀᴛᴜꜱ
-    usettings - ᴜꜱᴇʀ ꜱᴇᴛᴛɪɴɢꜱ
-    setthumb - ꜱᴇᴛ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ
-    clearthumb - ᴄʟᴇᴀʀ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ
-    speedtest - ᴛᴇꜱᴛɪɴɢ ɪɴᴛᴇʀɴᴇᴛ ꜱᴘᴇᴇᴅ ʜᴏꜱᴛ
-    settings - ꜱᴇᴛᴛɪɴɢꜱ ᴏꜰ ᴛʜᴇ ʙᴏᴛ ꜰᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ👨🏻‍💻
-    pauseall - ᴘᴀᴜꜱᴇ ᴀʟʟ ᴛᴏʀʀᴇɴᴛꜱ ꜰᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ👨🏻‍💻
-    resumeall - ʀᴇꜱᴜᴍᴇ ᴀʟʟ ᴛᴏʀʀᴇɴᴛꜱ ꜰᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ👨🏻‍💻
-    purge - ᴅᴇʟᴇᴛᴇ ᴀʟʟ ᴛᴏʀʀᴇɴᴛꜱ ꜰᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ👨🏻‍💻
-    getlogs - ɢᴇᴛ ᴛʜᴇ ʀᴏʙᴏᴛ ʟᴏɢꜱ ꜰᴏʀ ᴏᴡɴᴇʀ ᴏɴʟʏ👨🏻‍💻
+    leech - To Leech a torrent or download a direct link
+    ytdl - Donwload YouTube Video
+    pytdl - Download YouTube Playlist
+    about - About the bot
+    ustatus -  To See Your Active Tasks
+    status - Status of all the downloads
+    server - Get server status
+    usettings - User Settings (private also)
+    setthumb - Set the thumbnail
+    clearthumb - Clear the thumbnail
+    speedtest - Testing internet speed host
+    settings - Bot Settings For Owner Only🧑🏻‍💻
+    pauseall - Pause all torrents For Owner Only🧑🏻‍💻
+    resumeall - Resume all torrents For Owner Only🧑🏻‍💻
+    purge - Delete all torrents For Owner Only🧑🏻‍💻
+    getlogs - Get the robot logs For Owner Only🧑🏻‍💻
      
 
 <details>
