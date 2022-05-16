@@ -263,7 +263,7 @@ Steps:-
 
 <details>
 
-  <summary><b>Bot Commands:</b></summary>/n/n
+  <summary><b>Bot Commands:</b></summary>
 
 	<br/>
 
@@ -288,7 +288,7 @@ Steps:-
 
 <details>
 	
-  <summary><b>Credits:</b></summary>/n/n
+  <summary><b>Credits:</b></summary>
 	
 	<br/>
 
