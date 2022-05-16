@@ -79,7 +79,7 @@ Steps:-
     2. `docker-compose up`
 
 ### ***VPS Deployment Without Docker***
-### [![digitalOcean](https://telegra.ph/file/3e23f32923ecc67241ed9.png)](https://youtu.be/HYjG4-VfxXs)
+### [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
