@@ -43,7 +43,7 @@ Following are some awesome features offered by this bot:-
 ## ***Heroku***
 	
  For Heroku users New repo will come after Yash Khadse Is Free and Available .. (But This repo will work on heroku)
- [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md)
+ # [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md)
 
 ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
@@ -54,7 +54,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-[![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08)
+# [![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08)
 
 
 Steps:-
@@ -79,7 +79,8 @@ Steps:-
     2. `docker-compose up`
 
  ***VPS Deployment Without Docker***
- [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs)
+ 
+ # [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs)
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
@@ -256,11 +257,10 @@ Steps:-
   - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click](https://github.com/hey-adithya/BharatTorrentPro-/blob/master/start.sh#L2) to see.
 
 
+ **Rest Variables are not to be changed**
 
-## **Rest Variables are not to be changed**
 
-
-## **Bot Commands:**
+### **Bot Commands:**
 
     leech - To Leech a torrent or download a direct link
     ytdl - Donwload YouTube Video
