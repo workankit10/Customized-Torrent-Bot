@@ -50,18 +50,21 @@ Following are some awesome features offered by this bot:-
 ## ***Heroku***
 	
  For Heroku users New repo will come after Yash Khadse Is Free and Available .. (But This repo will work on heroku)
- <div align="center"> [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md) </div>
+ <div align="center"> 
+[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md) </div>
 
 ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
 Click the logo to see the video guide to see how to deploy. The web is not yet available but soon will be available on Zeet.
 
- <div align="center"> [![Deploy](https://telegra.ph/file/a81a05cc874e8636ddb86.png)](https://youtu.be/WWi9JWDzXSw) </div>
+ <div align="center"> 
+[![Deploy](https://telegra.ph/file/a81a05cc874e8636ddb86.png)](https://youtu.be/WWi9JWDzXSw) </div>
 
 ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
 
-<div align="center"> [![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08) </div>
+<div align="center">
+[![Dockr](https://telegra.ph/file/ad341fecc21a631af2847.png)](https://youtu.be/c8_TU1sPK08) </div>
 
 
 Steps:-
@@ -87,7 +90,8 @@ Steps:-
 
  ***VPS Deployment Without Docker***
  
- <div align="center"> [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs) </div>
+ <div align="center"> 
+[![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs) </div>
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
