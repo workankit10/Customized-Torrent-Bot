@@ -12,11 +12,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 
 <b>Table of Content:</b>
 	
- - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features) 
- 
- - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot) 
-  
- - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment) 
+ - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)     - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot)     - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment) 
  
  - [![Heroku](https://telegra.ph/file/e84cede89ccdc7c470690.png)](#heroku)
   
