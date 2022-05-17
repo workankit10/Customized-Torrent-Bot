@@ -10,11 +10,7 @@ The bot gets started with minimum variables and others can be set as and when ne
 - Pixeldrain DL support.
 - Alert on when the bot boots up.
 
-<details>
-
-  <summary><b>Table of Content:</b></summary>
-
-<br/>
+<b>Table of Content:</b>
 	
  - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features) 
  
