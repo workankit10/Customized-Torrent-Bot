@@ -295,7 +295,8 @@ Steps:-
 	
 <br/>
 
-<h1> [Hey-Adithya](https://github.com/hey-adithya) for coordinator
+<h1>
+[Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
 [Yash-DK](https://github.com/yash-dk) Owner of TorToolkit Repository
 
@@ -303,4 +304,6 @@ Steps:-
 
 [Lonami](https://github.com/LonamiWebs/Telethon/) for awesome Telethon
 
-[All the Libraries owner](https://github.com/yash-dk/TorToolkit-Telegram/blob/master/requirements.txt) <h1>
+[All the Libraries owner](https://github.com/yash-dk/TorToolkit-Telegram/blob/master/requirements.txt) 
+
+<h1>
