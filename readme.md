@@ -293,7 +293,7 @@ Steps:-
 	
   <summary><b>Credits:</b></summary>
 	
-<br/> <div align="center">
+<br/> <div
 	
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
