@@ -293,7 +293,7 @@ Steps:-
 	
   <summary><b>Credits:</b></summary>
 	
-<br/>
+<br/> <div align="center">
 	
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
@@ -301,6 +301,8 @@ Steps:-
 
 [AmirulAndalib](https://github.com/AmirulAndalib) for modding
 
-[Lonami](https://github.com/LonamiWebs/Telethon/) for awesome Telethon
+[Lonami](https://github.com/LonamiWebs/Telethon/) for awesome Telethon 
 
 [All the Libraries owner](https://github.com/yash-dk/TorToolkit-Telegram/blob/master/requirements.txt) 
+	
+</div>
