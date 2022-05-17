@@ -200,13 +200,13 @@ Steps:-
 
 - `COMPLETED_STR`
   - Values :- Any character [Only 1 character] [Can be set from settings menu]
-  - Default Value :- `▰`
+  - Default Value :- `Ⓑ`
   - Use :- Character used to denote completed progress in the progress bar. 
 
 
 - `REMAINING_STR`
   - Values :- Any character [Only 1 character] [Can be set from settings menu]
-  - Default Value :- `▱`
+  - Default Value :- `○`
   - Use :- Character used to denote remaining progress in the progress bar. 
 
 - `RCLONE_BASE_DIR`
