@@ -55,7 +55,7 @@ Following are some awesome features offered by this bot:-
 	
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md) </div>
 
-***Zeet***
+## ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
 Click the logo to see the video guide to see how to deploy. The web is not yet available but soon will be available on Zeet.
 
@@ -92,7 +92,7 @@ Steps:-
     1. `docker-compose build`
     2. `docker-compose up`
 
- ***VPS Deployment Without Docker***
+ ## ***VPS Deployment Without Docker***
  
  <div align="center"> 
 [![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs) 
