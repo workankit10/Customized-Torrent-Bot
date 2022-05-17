@@ -62,7 +62,7 @@
 | API_HASH | Telegram API_HASH | Your TG account's API_HASH | True | Get this value from [TELEGRAM](https://my.telegram.org/apps). |
 | OWNER_ID | TG account's ID | Your TG account's ID | True | ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode). |
 | ALD_USR | Authorized Chats | Your Group Chats ID + admins/owners id | True | Create a Super Group in Telegram, add `@missrose_bot` to the group, and send /id in the chat, to get this value. you can aswell add owner id/add by 1 space for some extra permissions.... |
-| DATABASE_URL_2 | MongoDB | True | [![Mongodb.com]](https://www.mongodb.com/cloud/atlas/register). |
+| DATABASE_URL_2 | MongoDB | MongoDB Data Base URL | True | [![Mongodb.com]](https://www.mongodb.com/cloud/atlas/register). |
 | BASE_URL_OF_BOT | Heroku App name web url | https://appname.herokuapp.com  | True | put entire appname url from `Heroku_APP_NAME` note: - the app doesnt need to be created just in `appname` above replace the name you gave in `HEROKU_APP_NAME`.... |
 
 
