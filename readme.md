@@ -293,9 +293,8 @@ Steps:-
 	
   <summary><b>Credits:</b></summary>
 	
-<br/>
-
-<h1>
+<br/> <h1>
+	
 [Hey-Adithya](https://github.com/hey-adithya) for coordinator
 
 [Yash-DK](https://github.com/yash-dk) Owner of TorToolkit Repository
