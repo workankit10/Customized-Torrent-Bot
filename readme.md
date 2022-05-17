@@ -95,8 +95,8 @@ Steps:-
  ## ***VPS Deployment Without Docker***
  
  <div align="center"> 
-[![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs) 
- </div>
+	 
+[![digitalOcean](https://telegra.ph/file/9bde4bc83653a202ef2da.png)](https://youtu.be/HYjG4-VfxXs) </div>
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
