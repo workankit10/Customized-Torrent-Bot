@@ -50,7 +50,7 @@ Following are some awesome features offered by this bot:-
 </details>
 <details>
 
-  <summary><3>Deployment:<h3></summary>
+  <summary><h3>Deployment:<h3></summary>
 
 ## ***Heroku***
 	
