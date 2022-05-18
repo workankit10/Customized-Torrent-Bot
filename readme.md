@@ -11,7 +11,7 @@
 </div>
 
 <br/> <div align="center">
-## <b>Whats New?</b>
+## <b>ᴡʜᴀᴛꜱ ɴᴇᴡ?</b>
 </div>
 
 - MegaDL added
