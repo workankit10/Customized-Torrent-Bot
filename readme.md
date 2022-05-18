@@ -24,7 +24,7 @@
 
 <details>
 
-   <summary><b>Features:</b></summary>
+   <summary><h2>Features:<h2></summary>
 	
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
