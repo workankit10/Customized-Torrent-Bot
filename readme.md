@@ -61,7 +61,7 @@ Click the logo to see the video guide to see how to deploy. The web is not yet a
 
 <div align="center"> 
 	
-[![Deploy](https://telegra.ph/file/ec40f1457584f9f41c759.png)](https://youtu.be/WWi9JWDzXSw) </div>
+[![Deploy](https://telegra.ph/file/bbe0d718668b24192e4fc.png)](https://youtu.be/WWi9JWDzXSw) </div>
 
 ## ***VPS Deployment Docker***
 ExecVarsSample.py location:- `tortoolkit/consts/ExecVarsSample.py`
