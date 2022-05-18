@@ -8,12 +8,14 @@
 ## [![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
 
 ## Whats new
-- MegaDL added
-- Overall download and upload progress.
-- Pixeldrain DL support.
-- Alert on when the bot boots up.
+> MegaDL added
+> Overall download and upload progress.
+> Pixeldrain DL support.
+> Alert on when the bot boots up.
 
-<b>Table of Content:</b>
+<details>
+
+   <summary><h3>Table of Content::<h3></summary>
 	
  - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)     - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot)     - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment)                  
  
@@ -21,10 +23,10 @@
   
  - [![Zeet](https://telegra.ph/file/dd8379fb023fc9fe9d763.png)](#zeet)       - [![VPS DEPLOYMENT USING DOCKER](https://telegra.ph/file/246af5743da2f792b34a7.png)](#vps-deployment-docker)    - [![VPS DEPLOYMENT WITHOUT DOCKER](https://telegra.ph/file/0d520b613134bd20881b8.png)](#vps-deployment-without-docker)
 
-
+</details>
 <details>
 
-   <summary><h5>Features:<h5></summary>
+   <summary><h3>Features:<h3></summary>
 	
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
@@ -159,9 +161,8 @@ Steps:-
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
 </details>
-<details>
 
-   <summary><h5>Compulsory Vars:<h5></summary>
+<h3>Compulsory Vars:<h3>
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
@@ -282,7 +283,6 @@ Steps:-
 
 ### **Rest Variables are not to be changed**
 
-</details>
 <details>
 
   <summary><h3>Bot Commands:<h3></summary>
