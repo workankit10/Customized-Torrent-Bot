@@ -165,7 +165,7 @@ Steps:-
 </details>
 
 <br/> <div align="center">
-<b>𝙲𝚘𝚖𝚙𝚞𝚕𝚜𝚘𝚛𝚢 𝚅𝚊𝚛𝚜:</b>
+***𝙲𝚘𝚖𝚙𝚞𝚕𝚜𝚘𝚛𝚢 𝚅𝚊𝚛𝚜:***
 </div>
 	  
 - `API_HASH`
@@ -206,7 +206,7 @@ Steps:-
   - Use :- Used to restrict use of certain stuff to owner only. 
 	 
 <br/> <div align="center">
-## ***𝙾𝚙𝚝𝚒𝚘𝚗𝚊𝚕 𝚅𝚊𝚛𝚜:***
+***𝙾𝚙𝚝𝚒𝚘𝚗𝚊𝚕 𝚅𝚊𝚛𝚜:***
 </div>  
 
 - `GD_INDEX_URL`
