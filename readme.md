@@ -8,10 +8,10 @@
 ## [![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
 
 ## Whats new
-> MegaDL added
-> Overall download and upload progress.
-> Pixeldrain DL support.
-> Alert on when the bot boots up.
+ MegaDL added
+ Overall download and upload progress.
+ Pixeldrain DL support.
+ Alert on when the bot boots up.
 
 <details>
 
@@ -162,7 +162,7 @@ Steps:-
 
 </details>
 
-<h3>Compulsory Vars:<h3>
+<b>Compulsory Vars:</b>
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
