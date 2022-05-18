@@ -22,7 +22,9 @@
  - [![Zeet](https://telegra.ph/file/dd8379fb023fc9fe9d763.png)](#zeet)       - [![VPS DEPLOYMENT USING DOCKER](https://telegra.ph/file/246af5743da2f792b34a7.png)](#vps-deployment-docker)    - [![VPS DEPLOYMENT WITHOUT DOCKER](https://telegra.ph/file/0d520b613134bd20881b8.png)](#vps-deployment-without-docker)
 
 
-## ***Features***
+<details>
+
+   <summary><b>Features:</b></summary>
 	
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
@@ -45,7 +47,10 @@ Following are some awesome features offered by this bot:-
 - InstaDL support
 - Browse the settings menu and try stuff. ;)
 
-### Deployment
+</details>
+<details>
+
+  <summary><b>Deployment:</b></summary>
 
 ## ***Heroku***
 	
@@ -153,7 +158,7 @@ Steps:-
     - Default Value :- `False`
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
-
+</details>
 
 ### **Compulsory Vars**
 
@@ -299,7 +304,8 @@ Steps:-
     resumeall - Resume all torrents For Owner Only🧑🏻‍💻
     purge - Delete all torrents For Owner Only🧑🏻‍💻
     getlogs - Get the robot logs For Owner Only🧑🏻‍💻
-     
+  
+</details>
 
 <details>
 	
@@ -318,3 +324,4 @@ Steps:-
 [All the Libraries owner](https://github.com/yash-dk/TorToolkit-Telegram/blob/master/requirements.txt) 
 	
 </div>
+</details>
