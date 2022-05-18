@@ -164,7 +164,8 @@ Steps:-
 
 <br/> <div align="center">
 <b>Compulsory Vars:</b>
-
+</div>
+	  
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
   - Default Value :- `""`
@@ -282,8 +283,6 @@ Steps:-
 - `QBitTorrent Configurations`
   - To modify QBT engine Preferences ... Please check `qBittorrent.conf` in root of the repo..
   - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click](https://github.com/hey-adithya/BharatTorrentPro-/blob/master/start.sh#L2) to see.
-
-</div>
 
 ### **Rest Variables are not to be changed**
 
