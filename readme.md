@@ -24,7 +24,7 @@
 
 <details>
 
-   <summary><h2>Features:<h2></summary>
+   <summary><h5>Features:<h5></summary>
 	
 Following are some awesome features offered by this bot:-
 - Using the best torrent client to deal with torrent : [qBittorrent](https://github.com/qbittorrent/qBittorrent)
@@ -159,8 +159,9 @@ Steps:-
     - Use :- Only set to True if you get errors regarding web server in VPS deployment. Only use as backup.
 
 </details>
+<details>
 
-### **Compulsory Vars**
+   <summary><h5>Compulsory Vars:<h5></summary>
 
 - `API_HASH`
   - Values :- Valid API HASH obtained from Telegram.
@@ -281,7 +282,7 @@ Steps:-
 
 ### **Rest Variables are not to be changed**
 
-
+</details>
 <details>
 
   <summary><h3>Bot Commands:<h3></summary>
