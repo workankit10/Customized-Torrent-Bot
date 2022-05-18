@@ -5,8 +5,10 @@
 > This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 > The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## [![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
-
+<br/> <div align="center">
+[![Fork](https://telegra.ph/file/0cf5e3964afe499d19a2b.png)](https://github.com/hey-adithya/Bharat-Leech-Bot/fork) • [![Telegram Group](https://telegra.ph/file/6ebc3fca0426110f74aa8.png)](https://t.me/BharatTorrentPro)
+</div>
+	
 ## Whats new
 - MegaDL added
 - Overall download and upload progress.
