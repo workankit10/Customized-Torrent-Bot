@@ -50,7 +50,7 @@ Following are some awesome features offered by this bot:-
 </details>
 <details>
 
-  <summary><b>Deployment:</b></summary>
+  <summary><3>Deployment:<h3></summary>
 
 ## ***Heroku***
 	
@@ -284,7 +284,7 @@ Steps:-
 
 <details>
 
-  <summary><b>Bot Commands:</b></summary>
+  <summary><h3>Bot Commands:<h3></summary>
 
 <br/>
 
@@ -309,7 +309,7 @@ Steps:-
 
 <details>
 	
-  <summary><b>Credits:</b></summary>
+  <summary><h3>Credits:<h3></summary>
 	
 <br/> <div align="center">
 	
