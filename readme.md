@@ -9,8 +9,9 @@
 </div>
 
 <br/> <div align="center">
- <b>Whats New?</b>
+## <b>Whats New?</b>
 </div>
+
 - MegaDL added
 - Overall download and upload progress.
 - Pixeldrain DL support.
