@@ -15,7 +15,7 @@
 
 <details>
 
-   <summary><h3>Table of Content::<h3></summary>
+   <summary><h3>Table of Content:<h3></summary>
 	
  - [![FEATURES](https://telegra.ph/file/fb2bcd6d847ee077a7920.png)](#features)     - [![TEST THE BOT](https://telegra.ph/file/c40ca230966595a82938e.png)](https://t.me/BharatTorrentProBot)     - [![DEPLOYMENT METHODS](https://telegra.ph/file/cbf3ee0487f99986b6818.png)](#deployment)                  
  
@@ -162,6 +162,7 @@ Steps:-
 
 </details>
 
+<br/> <div align="center">
 <b>Compulsory Vars:</b>
 
 - `API_HASH`
@@ -200,6 +201,8 @@ Steps:-
   - Values :- Owner's ID
   - Default Value :- `0`
   - Use :- Used to restrict use of certain stuff to owner only. 
+	 
+<br/> <div align="center">
 ## ***Optional Vars***
 - `GD_INDEX_URL`
   - Values :- Base URL of the index that you are using. (Now that you should include the directory also in URL if you have set `RCLONE_BASE_DIR`). (Dosen't matter if a slash is at the end or not)
@@ -280,6 +283,7 @@ Steps:-
   - To modify QBT engine Preferences ... Please check `qBittorrent.conf` in root of the repo..
   - To modify Trackers for QBT ... Please check `start.sh` file in root of the repo.. or [click](https://github.com/hey-adithya/BharatTorrentPro-/blob/master/start.sh#L2) to see.
 
+</div>
 
 ### **Rest Variables are not to be changed**
 
