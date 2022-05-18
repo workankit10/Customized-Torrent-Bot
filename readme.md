@@ -53,7 +53,7 @@ Following are some awesome features offered by this bot:-
 
 <div align="center"> 
 	
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](heroku-deployment.md) </div>
+[![Deploy](https://telegra.ph/file/8b6445eaa73f3adaeb031.png)](heroku-deployment.md) </div>
 
 ## ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
